@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R4HUL0007
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Computer science 
+- 🌱 I’m currently pursuing Computer science 
 
 
 <!---
